@@ -1,4 +1,4 @@
-# live project  https://exam-module19-frontend.vercel.app/
+# Live Project  https://exam-module19-frontend.vercel.app/
 
-# frontend run : npm run dev
-# backend run : nodemon index.js
+# Frontend Run : npm run dev
+# Backend Run : nodemon index.js
